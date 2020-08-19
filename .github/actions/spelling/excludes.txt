@@ -1,0 +1,9 @@
+^\.github/actions/spelling/
+^static/css/generated\.css$
+\.jpg$
+\.png$
+\.svg$
+ignore$
+/docs-(?!en)\w\w/
+/vendor/
+[-/](?!en)..\.(?:md|json|ya?ml)$
